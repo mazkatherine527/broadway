@@ -1,39 +1,42 @@
-body {
-  text-align: center;
-}
 
 h1{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 ul {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  text-align: center;
 }
 
 h2{
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 
 h3{
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
   font-family: Helvetica;
   font-size: 14px;
+  text-align: center;
 }
 h4 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
