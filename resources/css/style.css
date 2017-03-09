@@ -13,6 +13,9 @@ ul {
   color: white;
   text-align: center;
 }
+div {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
 
 h2{
   font-family: Helvetica;
@@ -39,4 +42,5 @@ h4 {
   font-weight: bold;
   color: white;
   text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
